@@ -17,7 +17,7 @@ export const aboutData = {
     role: "SEO Specialist",
     age: 25,
     location: "India",
-    experience: "1+ year",
+    experience: "2+ year",
     bio: "Passionate SEO specialist with expertise in optimizing websites for search engines. Experienced in on-page and off-page SEO, technical analysis, content strategy, and keyword research. Committed to helping businesses increase their online visibility and drive organic traffic to their websites.",
     image: "/lovable-uploads/f6b7c0eb-f03e-4359-b317-cb99426a5728.png",
   },
