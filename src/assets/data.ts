@@ -5,7 +5,7 @@ import {
   Code, Search, Globe, PenTool, 
   Database, BarChart, MessageSquare, 
   Layout, ShoppingCart, FileText, 
-  Server, Tool, Zap, Award, 
+  Server, Zap, Award, 
   BookOpen, Users, Calendar, 
   Github, Linkedin, Phone, Mail 
 } from "lucide-react";
@@ -19,7 +19,7 @@ export const aboutData = {
     location: "India",
     experience: "1+ year",
     bio: "Passionate SEO specialist with expertise in optimizing websites for search engines. Experienced in on-page and off-page SEO, technical analysis, content strategy, and keyword research. Committed to helping businesses increase their online visibility and drive organic traffic to their websites.",
-    image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    image: "public/lovable-uploads/f6b7c0eb-f03e-4359-b317-cb99426a5728.png",
   },
   rajat: {
     name: "Rajat Gupta",
@@ -28,7 +28,7 @@ export const aboutData = {
     company: "ARA Web Technologies",
     location: "Faridabad, India",
     bio: "Versatile web developer with 2.3 years of experience in full-stack development. Currently working at ARA Web Technologies, specializing in building responsive, user-friendly websites and applications using modern technologies. Proficient in both frontend and backend development, with expertise in creating secure and scalable web solutions.",
-    image: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    image: "public/lovable-uploads/94ed4f53-0a64-46e0-8096-9aa661bba3c1.png",
   }
 };
 
@@ -257,3 +257,4 @@ export const contactData = {
   },
   location: "Faridabad, India",
 };
+
