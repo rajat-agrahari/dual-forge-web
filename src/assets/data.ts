@@ -50,7 +50,7 @@ export const projectsData = {
       description: "Developed a comprehensive apartment booking system with user authentication, booking management, and payment integration.",
       tags: ["Laravel", "MySQL", "Bootstrap", "Razorpay"],
       features: ["User profiles", "Booking calendar", "Payment processing", "Admin dashboard"],
-      link: "#",
+      link: "https://serviceapartmentsindelhi.com/",
       image: "https://images.unsplash.com/photo-1460317442991-0ec209397118?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     },
     {
@@ -58,7 +58,7 @@ export const projectsData = {
       description: "Built a fully-functional e-commerce platform for a clothing brand with product management, cart functionality, and secure checkout.",
       tags: ["PHP", "MySQL", "JavaScript", "Bootstrap"],
       features: ["Product filtering", "User accounts", "Wishlist", "Order tracking"],
-      link: "#",
+      link: "https://theluxuriouslooks.com/",
       image: "https://images.unsplash.com/photo-1525328437458-0c4d4db7cab4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     },
     {
@@ -66,7 +66,7 @@ export const projectsData = {
       description: "Created a platform for spiritual courses with video content delivery, user progress tracking, and subscription management.",
       tags: ["Laravel", "MySQL", "JavaScript", "Instamojo"],
       features: ["Video lessons", "Progress tracking", "Community forum", "Certificate generation"],
-      link: "#",
+      link: "https://secondsightfoundation.com/",
       image: "https://images.unsplash.com/photo-1528715471579-d1bcf0ba5e83?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     },
     {
@@ -243,16 +243,16 @@ export const blogData = {
 
 // Contact data
 export const contactData = {
-  email: "contact@anujrajat.com",
-  phone: "+91 9876543210",
+  email: "anujb9968@gmail.com",
+  phone: "+91 8700689942",
   social: {
     linkedin: {
       anuj: "https://linkedin.com/in/anuj",
-      rajat: "https://linkedin.com/in/rajat-gupta",
+      rajat: "https://www.linkedin.com/in/rajat-gupta-0a3a4a221/",
     },
     github: {
       anuj: "https://github.com/anuj",
-      rajat: "https://github.com/rajat",
+      rajat: "https://github.com/rajat-agrahari",
     }
   },
   location: "Faridabad, India",
